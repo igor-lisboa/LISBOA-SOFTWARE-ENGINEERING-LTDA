@@ -470,3 +470,26 @@ body {
     border-radius: 8px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
 }
+
+/* Accessibility Options in Menu */
+.accessibility-options {
+    margin-top: 1rem;
+    text-align: center;
+}
+
+.accessibility-btn {
+    background: none;
+    color: #00ff00;
+    border: 1px solid #00ff00;
+    padding: 0.5rem 1rem;
+    border-radius: 3px;
+    font-size: 1rem;
+    cursor: pointer;
+    margin: 0 0.5rem;
+    transition: background 0.3s, color 0.3s;
+}
+
+.accessibility-btn:hover {
+    background: #00ff00;
+    color: black;
+}
