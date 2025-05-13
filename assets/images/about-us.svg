@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" width="100%" height="auto">
+    <!-- Background -->
+    <rect width="800" height="600" fill="#111" />
+
+    <!-- Central Circle (Collaboration) -->
+    <circle cx="400" cy="300" r="120" fill="#00ff00" />
+
+    <!-- Smaller Circles (Team Members) -->
+    <circle cx="280" cy="200" r="60" fill="#007b00" />
+    <circle cx="520" cy="200" r="60" fill="#007b00" />
+    <circle cx="280" cy="400" r="60" fill="#007b00" />
+    <circle cx="520" cy="400" r="60" fill="#007b00" />
+
+    <!-- Connecting Lines -->
+    <line x1="400" y1="300" x2="280" y2="200" stroke="#00cc00" stroke-width="3" />
+    <line x1="400" y1="300" x2="520" y2="200" stroke="#00cc00" stroke-width="3" />
+    <line x1="400" y1="300" x2="280" y2="400" stroke="#00cc00" stroke-width="3" />
+    <line x1="400" y1="300" x2="520" y2="400" stroke="#00cc00" stroke-width="3" />
+
+    <!-- Text -->
+    <text x="50%" y="90%" fill="#00ff00" font-size="24" font-family="Courier New, monospace" text-anchor="middle">
+        Empowering Businesses with Technology
+    </text>
+</svg>
