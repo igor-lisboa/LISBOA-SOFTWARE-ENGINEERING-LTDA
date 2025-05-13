@@ -16,9 +16,4 @@
     <line x1="400" y1="300" x2="520" y2="200" stroke="#00cc00" stroke-width="3" />
     <line x1="400" y1="300" x2="280" y2="400" stroke="#00cc00" stroke-width="3" />
     <line x1="400" y1="300" x2="520" y2="400" stroke="#00cc00" stroke-width="3" />
-
-    <!-- Text -->
-    <text x="50%" y="90%" fill="#00ff00" font-size="24" font-family="Courier New, monospace" text-anchor="middle">
-        Empowering Businesses with Technology
-    </text>
 </svg>
